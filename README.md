@@ -1,2 +1,2 @@
 # Bank-Payroll-System
-C++ Program / Project
+Created a C++ program by using object oriented concepts.
